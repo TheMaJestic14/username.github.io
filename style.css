@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+}
+
+header {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.hero {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.menu {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.item {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.contact {
+    background: #eee;
+    padding: 30px;
+    text-align: center;
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
